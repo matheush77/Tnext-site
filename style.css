@@ -1,8 +1,13 @@
 h1 {
-color: black;
+color: white;
 text-align: center;
 }
 
 body{
 background-color: #778899;
+}
+
+p{
+color: white;
+font-size: 15px;
 }
