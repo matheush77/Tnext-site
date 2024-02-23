@@ -15,5 +15,5 @@ font-size: 15px;
 #imagemprincipal {
 width: 600px;
 height: 350px;
-
+border: 10px solid black;
 }
