@@ -75,3 +75,8 @@ width: 300px;
 height: 199px;
 border: 3px solid rgba(0, 0, 0, 0);
 }
+
+title {
+color: rgb(148, 146, 146); 
+text-align: left;
+}
