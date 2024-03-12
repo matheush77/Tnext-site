@@ -86,3 +86,8 @@ padding: 24px 0;
     margin: 0;
     padding: 0;
 }
+
+.sobre{
+display: flex;
+justify-content: center;
+}
