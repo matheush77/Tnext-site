@@ -77,7 +77,7 @@ border: 3px solid rgba(0, 0, 0, 0);
 
 
 .cabecalho {
-    background-color: rgb(34, 56, 255);
+    background-color: black
     color: white;
     display: flex;
     justify-content: space-around;
