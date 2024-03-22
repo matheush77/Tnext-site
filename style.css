@@ -28,7 +28,7 @@
 }
 
 .Sobre{
-    background-image: linear-gradient(#424E61, #4EBFE9);
+    background-image: linear-gradient(black, #221133);
     color: white;
     display: flex;
 }
