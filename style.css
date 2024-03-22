@@ -11,61 +11,6 @@ color: rgb(255, 255, 255);
 font-size: 25px;
 }
 
-#imagemprincipal {
-width: 260px;
-height: 146px;
-padding: 0px;
-margin-left: 7%;
-}
-
-#imagem2 {
-    width: 260px;
-    height: 146px;
- }
-
-#imagem3 {
-    width: 260px;
-    height: 146px;
-}
-        
- #imagem4 {
-    width: 260px;
-    height: 146px;
- }
-
-#imagem5 {
-    width: 260px;
-    height: 146px;
-}
-                
-#imagem6 {
-    width: 260px;
-    height: 146px;
-margin-left: 7%;
-margin-top: 2%;
-}
-
-#imagem7 {
-    width: 260px;
-    height: 146px;
-}
-
-#imagem8 {
-    width: 260px;
-    height: 146px;
-}
-
-#imagem9 {
-    width: 260px;
-    height: 146px;
-}
-
-#imagem10 {
-    width: 260px;
-    height: 146px;
-}
-
-
 .cabecalho {
     background-color: rgb(2, 2, 2);
     color: white;
