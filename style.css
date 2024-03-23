@@ -60,3 +60,8 @@ body {
 .personagem-imagem{
     width: 150px;
 }
+
+.personagem-div{
+    align-items: center;
+
+}
