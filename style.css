@@ -31,7 +31,7 @@ body {
 
 }
 
-#Sobre{
+.Sobre{
     background-image: linear-gradient(#761919,#FF0303);
     color:white;
     display: flex;
@@ -75,12 +75,4 @@ body {
 .personagens-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-}
-
-li {
-    text-align: -webkit-match-parent;
-}
-
-ul {
-    list-style-type: disc;
 }
