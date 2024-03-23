@@ -62,6 +62,6 @@ body {
 }
 
 .personagem-div{
-    align-items: center;
-
+    text-align: center;
+    padding: 16px 0;
 }
