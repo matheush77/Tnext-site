@@ -77,3 +77,10 @@ body {
     grid-template-columns: 20% 20% 20% 20% 20%;
 }
 
+li {
+    text-align: -webkit-match-parent;
+}
+
+ul {
+    list-style-type: disc;
+}
