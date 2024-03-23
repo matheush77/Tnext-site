@@ -70,3 +70,9 @@ body {
     text-align: center;
     padding: 24px 0;
 }
+
+.personagens-todos{
+    display: grid;
+
+}
+
